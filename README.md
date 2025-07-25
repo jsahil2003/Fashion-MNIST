@@ -1,6 +1,6 @@
 # Fashion-MNIST Classification with PCA and Ensemble Learning
 
-This project implements classification of the [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset using dimensionality reduction (PCA), hyperparameter tuning (GridSearchCV), and ensemble learning (Voting Classifier) in Python with scikit-learn.
+This project implements classification of the [Fashion-MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist) dataset using dimensionality reduction (PCA), hyperparameter tuning (GridSearchCV), and ensemble learning (Voting Classifier) in Python with scikit-learn.
 
 ## 📂 Dataset
 
