@@ -98,7 +98,7 @@ for name, result in grid_scores.items():
    # Get the best trained model
    best_model = result['grid_object'].best_estimator_
    
-   # Make predictions on test set
+   # Make predictions on test set and check accuracy
    y_pred = best_model.predict(x_test)
    
    # Display results
